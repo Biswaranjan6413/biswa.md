@@ -5,15 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-<a href="https://www.naukri.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Naukri_Logo.png" alt="naukri" width="40" height="40"/> 
-</a>
-<a href="https://facebook.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/> 
-</a>
-<a href="https://www.youtube.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="youtube" width="40" height="40"/> 
-</a>
+
 <p align="left"> <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="yourtwitter" /></a> </p>
 
 - 🌱 I’m currently learning **Spring , React.js**
@@ -28,6 +20,15 @@
 <p align="left">
 <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourtwitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourlinkedin" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Naukri_Logo.png" alt="naukri" width="40" height="40"/> 
+</a>
+<a href="https://facebook.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/> 
+</a>
+<a href="https://www.youtube.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="youtube" width="40" height="40"/> 
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
